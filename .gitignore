@@ -1,0 +1,9 @@
+.project
+.git
+tests/html/*
+*DS_Store
+.idea/*
+.buildcache
+v8.log
+*.swp
+*.zip

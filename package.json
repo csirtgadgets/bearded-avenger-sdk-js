@@ -1,0 +1,27 @@
+{
+  "name": "cifsdk-js",
+  "version": "0.0.1",
+  "description": "CIF SDK for JavaScript",
+  "main": "cif.js",
+  "directories" : {
+      "lib" : "lib",
+      "test" : "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/csirtgadgets/bearded-avenger-sdk-js.git"
+  },
+  "keywords": [
+    "cif",
+    "security"
+  ],
+  "author": "wes young",
+  "license": "MPL2",
+  "bugs": {
+    "url": "https://github.com/csirtgadgets/bearded-avenger-sdk-js/issues"
+  },
+  "homepage": "https://github.com/csirtgadgets/bearded-avenger-sdk-js"
+}
